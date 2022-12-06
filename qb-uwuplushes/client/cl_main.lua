@@ -6,7 +6,6 @@ RegisterNetEvent('qb-uwuplush:client:uwupurpleplush', function()
 	if holdingplush then
 		StopAnimTask(PlayerPedId(), "impexp_int-0", "mp_m_waremech_01_dual-0" ,8.0, -8.0, -1, 50, 0, false, false, false)
 		DeleteEntity(tab)
-		ExecuteCommand('propstuck')
 		holdingplush = false
 	else
 		RequestAnimDict("impexp_int-0")
@@ -24,7 +23,6 @@ RegisterNetEvent('qb-uwuplush:client:uwugreenplush', function()
 	if holdingplush then
 		StopAnimTask(PlayerPedId(), "impexp_int-0", "mp_m_waremech_01_dual-0" ,8.0, -8.0, -1, 50, 0, false, false, false)
 		DeleteEntity(tab)
-		ExecuteCommand('propstuck')
 		holdingplush = false
 	else
 		RequestAnimDict("impexp_int-0")
@@ -42,7 +40,6 @@ RegisterNetEvent('qb-uwuplush:client:uwublueplush', function()
 	if holdingplush then
 		StopAnimTask(PlayerPedId(), "impexp_int-0", "mp_m_waremech_01_dual-0" ,8.0, -8.0, -1, 50, 0, false, false, false)
 		DeleteEntity(tab)
-		ExecuteCommand('propstuck')
 		holdingplush = false
 	else
 		RequestAnimDict("impexp_int-0")
@@ -60,7 +57,6 @@ RegisterNetEvent('qb-uwuplush:client:uwubrownplush', function()
 	if holdingplush then
 		StopAnimTask(PlayerPedId(), "impexp_int-0", "mp_m_waremech_01_dual-0" ,8.0, -8.0, -1, 50, 0, false, false, false)
 		DeleteEntity(tab)
-		ExecuteCommand('propstuck')
 		holdingplush = false
 	else
 		RequestAnimDict("impexp_int-0")
@@ -78,7 +74,6 @@ RegisterNetEvent('qb-uwuplush:client:uwuyellowplush', function()
 	if holdingplush then
 		StopAnimTask(PlayerPedId(), "impexp_int-0", "mp_m_waremech_01_dual-0" ,8.0, -8.0, -1, 50, 0, false, false, false)
 		DeleteEntity(tab)
-		ExecuteCommand('propstuck')
 	else
 		RequestAnimDict("impexp_int-0")
 		while not HasAnimDictLoaded("impexp_int-0") do
@@ -95,7 +90,6 @@ RegisterNetEvent('qb-uwuplush:client:uwuredplush', function()
 	if holdingplush then
 		StopAnimTask(PlayerPedId(), "impexp_int-0", "mp_m_waremech_01_dual-0" ,8.0, -8.0, -1, 50, 0, false, false, false)
 		DeleteEntity(tab)
-		ExecuteCommand('propstuck')
 		holdingplush = false
 	else
 		RequestAnimDict("impexp_int-0")
@@ -113,7 +107,6 @@ RegisterNetEvent('qb-uwuplush:client:uwugreenrareplush', function()
 	if holdingplush then
 		StopAnimTask(PlayerPedId(), "impexp_int-0", "mp_m_waremech_01_dual-0" ,8.0, -8.0, -1, 50, 0, false, false, false)
 		DeleteEntity(tab)
-		ExecuteCommand('propstuck')
 		holdingplush = false
 	else
 		RequestAnimDict("impexp_int-0")
@@ -131,7 +124,6 @@ RegisterNetEvent('qb-uwuplush:client:uwupinkrareplush', function()
 	if holdingplush then
 		StopAnimTask(PlayerPedId(), "impexp_int-0", "mp_m_waremech_01_dual-0" ,8.0, -8.0, -1, 50, 0, false, false, false)
 		DeleteEntity(tab)
-		ExecuteCommand('propstuck')
 		holdingplush = false
 	else
 		RequestAnimDict("impexp_int-0")
