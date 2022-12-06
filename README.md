@@ -13,4 +13,4 @@ Add the items below to qb-core\shared\items.lua
 Credit: 
 someone with plushie images LUL
 
-Preview: https://medal.tv/games/gta-v/clips/L2kPRekDn0007/d1337KC8OeIz?invite=cr-MSxhVGgsMTg1MzkyMTUs
+[Preview](https://medal.tv/games/gta-v/clips/L2kPRekDn0007/d1337KC8OeIz?invite=cr-MSxhVGgsMTg1MzkyMTUs)
