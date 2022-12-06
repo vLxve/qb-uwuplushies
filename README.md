@@ -1,6 +1,6 @@
 Dependencies [qbcore](https://github.com/qbcore-framework)
 
-Need Support? Join my discord for support! https://discord.gg/dvBfdbc66B
+Join my discord for support! https://discord.gg/dvBfdbc66B
 
 Installation:
 
