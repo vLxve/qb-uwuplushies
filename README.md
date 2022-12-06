@@ -1,4 +1,5 @@
 Dependencies [qbcore](https://github.com/qbcore-framework)
+
 [Rpemotes](https://github.com/TayMcKenzieNZ/rpemotes)
 
 Join my [discord](https://discord.gg/dvBfdbc66B) for support!
