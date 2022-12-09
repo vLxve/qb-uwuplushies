@@ -1,4 +1,5 @@
 # qb-uwuplushies
+* Plushies!
 
 # Dependencies 
 * [qbcore](https://github.com/qbcore-framework)
