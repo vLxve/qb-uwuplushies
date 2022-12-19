@@ -3,7 +3,7 @@
 
 # Dependencies 
 * [qbcore](https://github.com/qbcore-framework)
-* [Rpemotes](https://github.com/TayMcKenzieNZ/rpemotes)
+* [Rpemotes](https://github.com/TayMcKenzieNZ/rpemotes) or [DPEmotes](https://github.com/andristum/dpemotes)
 
 
 # Installation:
