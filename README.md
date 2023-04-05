@@ -22,7 +22,7 @@
 
 
 # Preview
-[Preview accidentally deleted)
+[Preview accidentally deleted]
 
 # Credits:
 * someone with plushie images LUL
