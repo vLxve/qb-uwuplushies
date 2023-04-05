@@ -22,7 +22,7 @@
 
 
 # Preview
-* [Video](https://medal.tv/games/gta-v/clips/L2kPRekDn0007/d1337KC8OeIz?invite=cr-MSxhVGgsMTg1MzkyMTUs)
+[Preview accidentally deleted)
 
 # Credits:
 * someone with plushie images LUL
