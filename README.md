@@ -24,8 +24,5 @@
 # Preview
 [Preview accidentally deleted]
 
-# Credits:
-* someone with plushie images LUL
-
 # Support
 * Join my [discord](Https://discord.gg/zgUabBSxP7) for support!
